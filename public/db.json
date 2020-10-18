@@ -1,0 +1,111 @@
+{
+  "tweets": [
+    {
+      "_id": 1,
+      "text": "Lorem anim laborum nisi commodo dolore. Reprehenderit veniam esse laborum deserunt reprehenderit. In anim sit aute ut cillum sunt adipisicing ut velit magna cillum minim. Cupidatat pariatur eu ut laboris pariatur dolore incididunt eiusmod ex duis id. Dolore veniam velit ea voluptate dolor commodo dolor.",
+      "user": {
+        "fullname": "Barrett Harrell",
+        "username": "barker",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?4"
+      }
+    },
+    {
+      "_id": "5f8afa61ea7be3ba8cec2303",
+      "text": "Ut excepteur ex aliqua commodo. Pariatur nulla eu ex esse ea et anim ad amet labore. Eu est ipsum officia ad commodo nisi voluptate voluptate. Commodo culpa quis in est cupidatat dolore labore. Ex excepteur exercitation ipsum labore.",
+      "user": {
+        "fullname": "Elba Alvarado",
+        "username": "mann",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?1"
+      }
+    },
+    {
+      "_id": "5f8afa611a1b2348540250c4",
+      "text": "Consectetur Lorem exercitation est cupidatat dolore. Qui consectetur laborum ad duis ad ea veniam fugiat tempor deserunt deserunt enim aliqua. Aliqua ad sint irure id velit incididunt nostrud commodo dolore sint et culpa. Est ut culpa consectetur ut culpa adipisicing duis. Enim aliqua labore dolore excepteur sint do incididunt amet do commodo tempor adipisicing.",
+      "user": {
+        "fullname": "Gina Robbins",
+        "username": "cooper",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?3"
+      }
+    },
+    {
+      "_id": "5f8afa619b44864082cd24c7",
+      "text": "Adipisicing in in ut quis consequat sunt nisi ex consequat ea veniam non. Laboris ullamco aliqua cillum fugiat incididunt duis minim non dolor consectetur in. Commodo culpa pariatur proident adipisicing irure laborum nulla aute sunt excepteur eu quis laborum. Cillum nulla commodo non aliquip excepteur velit laborum aute veniam duis. Eu dolore fugiat velit laborum est eu id id culpa dolore velit.",
+      "user": {
+        "fullname": "Marian Mooney",
+        "username": "cox",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?5"
+      }
+    },
+    {
+      "_id": "5f8afa6182ee9bdbdb580959",
+      "text": "Voluptate sint voluptate minim ad eu reprehenderit ullamco dolore est occaecat. Incididunt reprehenderit dolor adipisicing do occaecat ullamco deserunt velit aliquip in aute irure. Id enim aliquip fugiat ea ex commodo labore minim duis consectetur ad. Deserunt voluptate velit consequat adipisicing est esse quis consequat consequat sunt aliqua ullamco. Pariatur quis sint esse duis sit.",
+      "user": {
+        "fullname": "Deena Cochran",
+        "username": "snow",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?5"
+      }
+    },
+    {
+      "_id": "5f8afa61d905b61aa3031627",
+      "text": "Veniam veniam aliquip consectetur nisi fugiat eu ex tempor sint ad excepteur. Id ut in qui amet nulla labore exercitation ullamco ea ea cillum. Et deserunt aliquip veniam laboris duis ut occaecat. Sunt veniam voluptate sunt do. Laborum deserunt sunt magna minim irure officia et dolore.",
+      "user": {
+        "fullname": "Jill Stafford",
+        "username": "maxine",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?2"
+      }
+    },
+    {
+      "_id": "5f8afa614410e4cea5a67d08",
+      "text": "Elit ea culpa fugiat ullamco irure. Ipsum proident mollit consectetur cupidatat nostrud exercitation cillum ullamco ex in laboris ut consectetur. Ullamco in eu commodo ut eu excepteur aliquip mollit in laboris minim aliquip tempor aute. Qui commodo ut exercitation laboris cupidatat in irure aliquip labore ut. Deserunt magna sit ullamco do duis incididunt.",
+      "user": {
+        "fullname": "Kay Pugh",
+        "username": "raquel",
+        "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?4"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "_id": "5f8afa614410e4cea5a67d07",
+      "name": "#Навальный",
+      "count": 520
+    },
+    {
+      "_id": "5f8afa614410e4cea5a67d08",
+      "name": "#Образование",
+      "count": 1246
+    },
+    {
+      "_id": "5f8afa614410e4cea5a67d09",
+      "name": "#Терминатор",
+      "count": 79
+    },
+    {
+      "_id": "5f8afa614410e4cea5a67d10",
+      "name": "#Беларусь",
+      "count": 1201
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Elba Alvarado",
+      "username": "mann",
+      "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?1"
+    },
+    {
+      "fullname": "Deena Cochran",
+      "username": "snow",
+      "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?5"
+    },
+    {
+      "fullname": "Kay Pugh",
+      "username": "raquel",
+      "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?4"
+    }
+  ],
+  "user": {
+    "fullname": "Barrett Harrell",
+    "username": "barker",
+    "avatarUrl": "https://source.unsplash.com/user/erondu/100x100?4"
+  }
+}
