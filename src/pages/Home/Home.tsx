@@ -71,6 +71,7 @@ const Home = (): React.ReactElement => {
                                 <div className={classes.addFormBottomLine}/>
                             </Paper>
                         </Route>
+                        <Route path='/home/tweet/:id' component={FullTweet} exact/>
                         <Route path='/home' exact>
                             {isLoading
                                 ? (<div className={classes.tweetsCentred}><CircularProgress/></div>)
@@ -84,7 +85,6 @@ const Home = (): React.ReactElement => {
                                         ))
                             }
                         </Route>
-                        <Route path='/home/tweet/:id' component={FullTweet} exact/>
                     </Paper>
                 </Grid>
                 <Grid item sm={3}>
