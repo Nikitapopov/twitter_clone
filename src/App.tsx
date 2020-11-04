@@ -26,6 +26,7 @@ function App() {
 
   return (
     <div className="App">
+        <b>TEST</b>
         <Switch>
             <Route path='/signIn' component={Authorize}/>
             <Route path='/' component={Home}/>

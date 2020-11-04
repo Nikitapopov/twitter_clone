@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "hostpage": "https://nikitapopov.github.io/twitter_clone/",
+  "proxy": "https://mysterious-shore-31856.herokuapp.com/",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@hookform/resolvers": "^1.0.0",
